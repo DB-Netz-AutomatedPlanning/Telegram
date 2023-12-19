@@ -1,0 +1,18 @@
+# Ignore all files with a .log extension
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore the build directory
+/build/
+
+# Ignore the .vs directory (common for Visual Studio)
+.vs/
+
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
